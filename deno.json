@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "run": "deno run --allow-read --allow-run --allow-env main.ts ./example",
+    "compile": "deno compile --allow-read --allow-run --allow-env --output build/xcodeformat main.ts"
+  }
+}
