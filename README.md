@@ -16,7 +16,7 @@ xcodeformat path/to/project/root
 ```
 
 XcodeFormat now watches any changes to Swift files in your project directory,
-and will call format a file when you save it through Xcode.
+and will format a file when you save it through Xcode.
 
 > XcodeFormat will only work if the project root contains a .swiftformat configuration file.
 > See [SwiftFormat: config file](https://github.com/nicklockwood/SwiftFormat?tab=readme-ov-file#config-file)
